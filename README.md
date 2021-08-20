@@ -1,3 +1,3 @@
 # Java-GUI-Project
 
-minesweeper 
+minesweeper game
